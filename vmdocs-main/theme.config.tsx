@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>VM/chat</span>,
   project: {
-    link: 'https://github.com/vmlabss/vmchat',
+    link: '',
  
   
   },
